@@ -1,4 +1,4 @@
-export default function Utils() {
+function Utils() {
 }
 
 //redondea con 2 decimales
@@ -19,3 +19,4 @@ Utils.prototype.toRadians = function (deg){
 };
 
 //(Utils)();
+module.exports = Utils;
