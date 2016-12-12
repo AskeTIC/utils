@@ -1,6 +1,6 @@
 {
   "name": "asketic-utils",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Utils for our projects",
   "main": "index.js",
   "scripts": {
